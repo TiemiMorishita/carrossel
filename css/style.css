@@ -14,29 +14,29 @@ body{
 }
 
 .carrossel .fotos img{
-    width: 9%;
+    width: 636px;
 }
 
 @keyframes animacao{
     0%{margin-left: 0;}
     7.5%{margin-left: 0;}
-    10%{margin-left: -101.5%;}
-    17.5%{margin-left: -101.5%;}
-    20%{margin-left: -201%;}
-    27.5%{margin-left: -201%;}
-    30%{margin-left: -300.6%;}
-    37.5%{margin-left: -300.6%;}
-    40%{margin-left: -400.5%;}
-    47.5%{margin-left: -400.5%;}
+    10%{margin-left: -100%;}
+    17.5%{margin-left: -100%;}
+    20%{margin-left: -200%;}
+    27.5%{margin-left: -200%;}
+    30%{margin-left: -300%;}
+    37.5%{margin-left: -300%;}
+    40%{margin-left: -400%;}
+    47.5%{margin-left: -400%;}
     50%{margin-left: -500%;}
     57.5%{margin-left: -500%;}
-    60%{margin-left: -599.5%;}
-    67.5%{margin-left: -599.5%;}
-    70%{margin-left: -699.4%;}
-    77.5%{margin-left: -699.4%;}
-    80%{margin-left: -799%;}
-    87.5%{margin-left: -799%;}
-    90%{margin-left: -898.5%;}
-    97.5%{margin-left: -898.5%;}
-    100%{margin-left: -998.4%;}
+    60%{margin-left: -600%;}
+    67.5%{margin-left: -600%;}
+    70%{margin-left: -700%;}
+    77.5%{margin-left: -700%;}
+    80%{margin-left: -800%;}
+    87.5%{margin-left: -800%;}
+    90%{margin-left: -900%;}
+    97.5%{margin-left: -900%;}
+    100%{margin-left: -1000%;}
 }
